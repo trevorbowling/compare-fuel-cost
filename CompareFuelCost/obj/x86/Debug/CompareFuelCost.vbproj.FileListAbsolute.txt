@@ -1,0 +1,21 @@
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.frmCompareFuelCost.resources
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.Resources.resources
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.SplashScreen1.resources
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.vbproj.GenerateResource.Cache
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\bin\Debug\CompareFuelCost.exe
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\bin\Debug\CompareFuelCost.pdb
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\bin\Debug\CompareFuelCost.xml
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.exe
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.xml
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.exe
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.xml
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\bin\Debug\CompareFuelCost.exe
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\bin\Debug\CompareFuelCost.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\bin\Debug\CompareFuelCost.xml
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.vbprojResolveAssemblyReference.cache
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.frmCompareFuelCost.resources
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.Resources.resources
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.SplashScreen1.resources
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CompareFuelCost\CompareFuelCost\obj\x86\Debug\CompareFuelCost.vbproj.GenerateResource.Cache
